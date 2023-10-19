@@ -28,15 +28,6 @@ Welcome to the Windows Auto-Activation Repository! This magical repository provi
 2. Navigate to the appropriate directory for your Windows version.
 3. Follow the magical instructions in the `activation.md` file for an enchanting activation process.
 
-## ✨ Contributors
-
-A big shoutout to the wizards and witches who have contributed to this mystical project:
-
-- [Your Name](https://github.com/yourusername) 🧙
-- [Contributor Name](https://github.com/contributorusername) 🧚
-
-![Contributors](contributors.png)
-
 ## 📚 Additional Resources
 
 For more knowledge on Windows activation, consult the [official Microsoft website](https://www.microsoft.com/en-us/windows/get-windows-11). 📖
