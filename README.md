@@ -8,7 +8,6 @@ Welcome to the Windows Auto-Activation Repository! This magical repository provi
 ## 🌟 Supported Windows Versions
 
 - *Windows 11 Pro* 🌈
-  - *Product Key:* `W269N-WFGWX-YVC9B-4J6C9-T83GX`
 - *Windows 11 Pro N* 🌌
 - *Windows 11 Pro for Workstations* 🚀
 - *Windows 10 Pro* 🏆
@@ -36,6 +35,6 @@ Please use this repository responsibly and in harmony with Microsoft's licensing
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Feel free to contribute to this magical project and help us make it even more enchanting! If you encounter any challenges, wave your wand and open a [GitHub issue](https://github.com/yourusername/your-repo/issues). 🪄📦
+Feel free to contribute to this magical project and help us make it even more enchanting! If you encounter any challenges, wave your wand and open a [GitHub issue](https://github.com/AryanVBW/KMSAutoActivator/issues). 🪄📦
 
 > This repository is a spellbook for educational purposes only. Ensure your use is pure and ethical in the realm of technology. 🧙‍♂️✨
