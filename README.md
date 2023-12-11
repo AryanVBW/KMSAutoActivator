@@ -24,9 +24,7 @@ Welcome to the Windows Auto-Activation Repository! This magical repository provi
 ## 🔮 Usage
 
 1. *Clone* this repository to your local machine.
-    ```bash
-   git clone  https://github.com/AryanVBW/KMSAutoActivator
-   ```
+    [click here download](https://github.com/AryanVBW/KMSAutoActivator/archive/refs/heads/main.zip) 
 3. Navigate to the appropriate directory for your Windows version.
 4. exucute this command
    ```bash
