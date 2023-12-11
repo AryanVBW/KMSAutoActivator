@@ -24,8 +24,15 @@ Welcome to the Windows Auto-Activation Repository! This magical repository provi
 ## 🔮 Usage
 
 1. *Clone* this repository to your local machine.
-2. Navigate to the appropriate directory for your Windows version.
-3. Follow the magical instructions in the `activation.md` file for an enchanting activation process.
+    ```bash
+   git clone  https://github.com/AryanVBW/KMSAutoActivator
+   ```
+3. Navigate to the appropriate directory for your Windows version.
+4. exucute this command
+   ```bash
+    ./
+   ```
+6. Follow the magical instructions in the `activation.md` file for an enchanting activation process.
 
 ## 📚 Additional Resources
 
