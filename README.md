@@ -3,7 +3,7 @@
 
 Welcome to the Windows Auto-Activation Repository! This magical repository provides automatic activation for various Windows operating systems. ✨
 
-![Windows Logo](https://github.com/AryanVBW/KMSAutoActivator/releases/download/KmsLogo/Kms1000.png)
+![Windows Logo](https://github.com/AryanVBW/KMSAutoActivator/releases/download/KmsLogo/Kmsfullt.png)
 
 ## 🌟 Supported Windows Versions
 
