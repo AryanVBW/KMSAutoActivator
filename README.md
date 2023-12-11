@@ -30,7 +30,7 @@ Welcome to the Windows Auto-Activation Repository! This magical repository provi
 3. Navigate to the appropriate directory for your Windows version.
 4. exucute this command
    ```bash
-    ./
+    ./ActivateWindows.ps1
    ```
 6. Follow the magical instructions in the `activation.md` file for an enchanting activation process.
 
