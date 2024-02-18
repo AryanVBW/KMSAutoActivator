@@ -95,7 +95,63 @@ Exucute this command for install activation key
 | **Windows 10 Education N**                   | 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ                   |
 | **Windows 10 Enterprise**                    | NPPR9-FWDCX-D2C8J-H872K-2YT43                   |
 | **Windows 10 Enterprise N**                  | DPH2V-TTNVB-4X9Q3-TJR4H-KH
+
 <h1>step 2 </h1>
+
+### KMS Server Connection Instructions
+
+To connect with a KMS server, execute the following command:
+
+```bash
+slmgr /skms [serverhere]:1688
+```
+
+#### Online KMS Host Address:
+
+- kms.digiboy.ir
+- hq1.chinancce.com
+- 54.223.212.31
+- kms.cnlic.com
+- kms.chinancce.com
+- kms.ddns.net
+- franklv.ddns.net
+- k.zpale.com
+- m.zpale.com
+- mvg.zpale.com
+- kms.shuax.com
+- kensol263.imwork.net:1688
+- xykz.f3322.org
+- kms789.com
+- dimanyakms.sytes.net:1688
+- kms.03k.org:1688
+
+#### Offline KMS Host Address:
+
+- kms.lotro.cc
+- mhd.kmdns.net110
+- noip.me
+- 45.78.3.223
+- kms.didichuxing.coms
+- zh.us.to
+- toxykz.f3322.org
+- 192.168.2.81.2.7.0
+- kms.guowaifuli.com
+- 106.186.25.2393
+- rss.vicp.net:20439
+- 122.226.152.230
+- 222.76.251.188
+- annychen.pw
+- heu168.6655.la
+- kms.aglc.cc
+- kms.landiannews.com
+- kms.xspace.in
+- winkms.tk
+- kms7.MSGuides.com
+- kms8.MSGuides.com
+- kms9.MSGuides.com
+
+---
+
 
 ## 📚 Additional Resources
 
