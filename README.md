@@ -21,7 +21,7 @@ Welcome to the Windows Auto-Activation Repository! This magical repository provi
 - *Windows 10 Home N* 🏡
 - *Windows 10 Home Single Language* 🌐
 
-## 🔮 Usage
+## 🔮 Usage Automatically 
 
 1. *Clone* this repository to your local machine.
     [click here download](https://github.com/AryanVBW/KMSAutoActivator/archive/refs/heads/main.zip) 
@@ -31,6 +31,11 @@ Welcome to the Windows Auto-Activation Repository! This magical repository provi
     ./ActivateWindows.ps1
    ```
 6. Follow the magical instructions in the `activation.md` file for an enchanting activation process.
+   
+## 🔮 Usage Manual.
+1. exucute this command for install activation key`slmgr /ipk <product key>`
+2.
+   
 
 ## 📚 Additional Resources
 
