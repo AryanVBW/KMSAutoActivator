@@ -151,8 +151,10 @@ slmgr /skms [serverhere]:1688
 - kms9.MSGuides.com
 
 ---
+<h1>Step 3</h1>
 
-
+  `slmgr /ato`
+  
 ## 📚 Additional Resources
 
 For more knowledge on Windows activation, consult the [official Microsoft website](https://www.microsoft.com/en-us/windows/get-windows-11). 📖
