@@ -33,7 +33,7 @@ Welcome to the Windows Auto-Activation Repository! This magical repository provi
 6. Follow the magical instructions in the `activation.md` file for an enchanting activation process.
    
 ## 🔮 Usage Manual.
-1. exucute this command for install activation key`slmgr /ipk <product key>`
+<h1>Step 1</h1> exucute this command for install activation key`slmgr /ipk <product key>`
 ## KMS product key link 🗝️🔐
 
 
@@ -91,6 +91,7 @@ Welcome to the Windows Auto-Activation Repository! This magical repository provi
 | **Windows 10 Education N**                   | 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ                   |
 | **Windows 10 Enterprise**                    | NPPR9-FWDCX-D2C8J-H872K-2YT43                   |
 | **Windows 10 Enterprise N**                  | DPH2V-TTNVB-4X9Q3-TJR4H-KH
+<h1>step 2 </h1>
 
 ## 📚 Additional Resources
 
