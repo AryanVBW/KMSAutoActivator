@@ -113,10 +113,11 @@ To connect with a KMS server, execute the following command:
 ```bash
 slmgr /skms [serverhere]:1688
 ```
-
 #### Online KMS Host Address:
-
-- kms.digiboy.ir
+<details>
+  <summary>Click to view</summary>
+  
+  - kms.digiboy.ir
 - hq1.chinancce.com
 - 54.223.212.31
 - kms.cnlic.com
@@ -132,9 +133,14 @@ slmgr /skms [serverhere]:1688
 - kms789.com
 - dimanyakms.sytes.net:1688
 - kms.03k.org:1688
+  
+</details>
+
 
 #### Offline KMS Host Address:
-
+<details>
+  <summary>Click to view</summary>
+  
 - kms.lotro.cc
 - mhd.kmdns.net110
 - noip.me
@@ -157,6 +163,10 @@ slmgr /skms [serverhere]:1688
 - kms7.MSGuides.com
 - kms8.MSGuides.com
 - kms9.MSGuides.com
+  
+</details>
+
+
 
 ---
 <h1>Step 3</h1>
