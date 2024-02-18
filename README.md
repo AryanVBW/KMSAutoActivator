@@ -33,7 +33,11 @@ Welcome to the Windows Auto-Activation Repository! This magical repository provi
 6. Follow the magical instructions in the `activation.md` file for an enchanting activation process.
    
 ## 🔮 Usage Manual.
-<h1>Step 1</h1> exucute this command for install activation key`slmgr /ipk <product key>`
+<h1>Step 1</h1> 
+Exucute this command for install activation key  
+     
+     `slmgr /ipk <product key>`
+       
 ## KMS product key link 🗝️🔐
 
 
