@@ -37,9 +37,10 @@ Welcome to the Windows Auto-Activation Repository! This magical repository provi
 Exucute this command for install activation key  
      
      `slmgr /ipk <product key>`
-       <details>
-       
-  <summary>KMS product keys Click Here to view</summary>
+      
+
+<details>
+         <summary>KMS product keys Click Here to view</summary>
   
   
 
@@ -98,6 +99,7 @@ Exucute this command for install activation key
 | **Windows 10 Enterprise**                    | NPPR9-FWDCX-D2C8J-H872K-2YT43                   |
 | **Windows 10 Enterprise N**                  | DPH2V-TTNVB-4X9Q3-TJR4H-KH
   
+
 </details>
 
 
