@@ -36,7 +36,7 @@ Welcome to the Windows Auto-Activation Repository! This magical repository provi
 <h1>Step 1</h1> 
 Exucute this command for install activation key  
      
-     `slmgr /ipk <product key>`
+    slmgr /ipk <product key>
       
 
 <details>
