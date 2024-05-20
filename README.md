@@ -6,21 +6,42 @@ Welcome to the Windows Auto-Activation Repository! This magical repository provi
 ![Windows Logo](https://github.com/AryanVBW/KMSAutoActivator/releases/download/KmsLogo/Kmsfullt.png)
 
 ## 🌟 Supported  All windows Windows Versions including lastest 
+**Windows Server** ( Server)
 
-- *Windows 11 Pro* 🌈
-- *Windows 11 Pro N* 🌌
-- *Windows 11 Pro for Workstations* 🚀
-- *Windows 10 Pro* 🏆
-- *Windows 10 Pro N* 🌍
-- *Windows Server Datacenter* 🏢
-- *Windows Server Standard* 🏗️
-- *Windows 11 Pro Education* 📚
-- *Windows 10 Pro Education* 🎓
-- *Windows 11/10 Enterprise* 🏢
-- *Windows 10 Home* 🏠
-- *Windows 10 Home N* 🏡
-- *Windows 10 Home Single Language* 🌐
+* **Latest Version (Long-Term Servicing Channel):**
+    * **Windows Server 2022 Datacenter** ( High Performance)
+    * **Windows Server 2022 Standard** ( General Purpose)
+* **Previous Versions (Long-Term Servicing Channel):**
+    * **Windows Server 2019 Datacenter** ( High Performance)
+    * **Windows Server 2019 Standard** ( General Purpose)
+    * **Windows Server 2016 Datacenter** ( High Performance)
+    * **Windows Server 2016 Standard** ( General Purpose)
+    * **Windows Server 2012 R2 Datacenter** ( High Performance) (End of Extended Support: October 9, 2023)
+    * **Windows Server 2012 R2 Standard** ( General Purpose) (End of Extended Support: October 9, 2023)
+* **Azure Edition (for Azure Stack HCI):**
+    * **Windows Server 2022 Datacenter: Azure Edition** ( Cloud-Optimized)
+* **Essentials (for Small Businesses):** ( Small Business)
+    * **Windows Server 2019 Essentials** (End of Extended Support: January 9, 2029)
+    * **Windows Server 2016 Essentials** (End of Extended Support: October 9, 2023)
 
+**Windows Client** ( Desktop/Laptop)
+
+* **Latest Version:**
+    * **Windows 11 Pro** ( Business)
+    * **Windows 11 Enterprise** ( Large Organizations)
+    * **Windows 11 Home** ( Home Use)
+* **Long-Term Servicing Channel (LTSC/LTSB versions):** (️ Long-Term Stability)
+    * **Windows 10 Enterprise LTSC 2021** (End of Extended Support: January 9, 2034)
+    * **Windows 10 Enterprise LTSC 2019** (End of Extended Support: January 9, 2030)
+* **Previous Versions:**
+    * **Windows 10 Pro** ( Business) (End of Mainstream Support: October 14, 2025)
+    * **Windows 10 Home** ( Home Use) (End of Mainstream Support: October 14, 2025)
+    * **Windows 8.1 Pro** (End of Extended Support: January 10, 2023)
+    * **Windows 8.1** (End of Mainstream Support: January 9, 2018; End of Extended Support: January 10, 2023)
+
+**Additional Considerations:**
+
+* **Windows N Editions:** These editions lack built-in media playback functionality but are required in some regions due to legal restrictions
 ## 🔮 Usage Automatically 
 
 1. *Clone* this repository to your local machine.
